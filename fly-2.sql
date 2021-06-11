@@ -1,0 +1,2 @@
+select 'vubvkjebvkjeb' from dual;
+
